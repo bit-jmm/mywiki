@@ -1,2 +1,1 @@
-Welcome to my wiki!
-
+# Welcome to my wiki!
